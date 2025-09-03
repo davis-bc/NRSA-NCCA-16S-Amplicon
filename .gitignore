@@ -1,1 +1,7 @@
 fastqs/
+slurm/
+GreenGenes/*backbone*
+PAT.txt
+nrsa.ncca.manifest.sra.tsv
+nrsa.ncca-sequences.qza
+
